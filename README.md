@@ -11,6 +11,9 @@ LBN_Testing_Original_Model.ipynb
 LBN_Testing_LBN_Model.ipynb  
 - Model including the [LBN](https://github.com/riga/LBN) layer that trains on EPxPyPz.csv  
 
+LBN_Vector_Conversion.py
+- Script used to convert PtEtaPhiE vectors to EPxPyPz vectors  
+
 ### DATA FILES  
 
 EPxPyPz.csv  
